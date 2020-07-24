@@ -1,0 +1,36 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Vest-Fiber"
+theme = "syna"
+
+[params]
+    name = "Vest-Fiber"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Theme customizations
+# Assets relative to 'static/'
+  [params.custom]
+    favicon = "favicon.ico"
+    favicon_ico_sizes = "16x16 32x32"
+    favicon_png = "favicon.png"
+    favicon_svg = "favicon.svg"
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 10
+
+[[menu.main]]
+    url = "/about"
+    name = "About Us"
+    weight = 20
+
+[[menu.main]]
+    url = "/contact"
+    name = "Contact"
+    weight = 30
