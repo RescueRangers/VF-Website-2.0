@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/VF-Website-2.0/"
 languageCode = "en-us"
 title = "Vest-Fiber"
 theme = "syna"
@@ -6,7 +6,8 @@ theme = "syna"
 [params]
     name = "Vest-Fiber"
 
-[publish]
+[outputs]
+    home = ["HTML", "JSON"]
     publishDir = "docs"
 
 [markup]

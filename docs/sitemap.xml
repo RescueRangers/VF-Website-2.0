@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>/VF-Website-2.0/about/</loc>
     <lastmod>2017-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/VF-Website-2.0/categories/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/VF-Website-2.0/contact/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/VF-Website-2.0/tags/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/VF-Website-2.0/</loc>
   </url>
   
 </urlset>
