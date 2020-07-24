@@ -1,6 +1,6 @@
 +++
 fragment = "hero"
-disabled = true
+disabled = false
 date = "2016-09-07"
 weight = 50
 background = "light" # can influence the text color
