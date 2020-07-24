@@ -6,6 +6,9 @@ theme = "syna"
 [params]
     name = "Vest-Fiber"
 
+[publish]
+    publishDir = "docs"
+
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
@@ -34,3 +37,4 @@ theme = "syna"
     url = "/contact"
     name = "Contact"
     weight = 30
+
