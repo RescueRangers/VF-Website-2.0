@@ -8,6 +8,7 @@ date = "2016-10-17"
 scope = [ "ul. Piłsudskiego 11", "74-400 Dębno", "Zachodniopomorskie", "Poland" ] 
 
 +++
+
 {{% fontawesome phone-alt %}} +48 795 072 444
 
 al@vest-fiber.com
