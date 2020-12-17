@@ -11,15 +11,15 @@ title = "Contact form"
 #title_align = "left" # Default is center, can be left, right or center
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "http://formspree.io/rr@vest-fiber.com" #default: formspree.io
-email = "mail@example.com"
+post_url = "https://formspree.io/f/mpzoygjk" #default: formspree.io
+email = "rr@vest-fiber.com"
 button_text = "Send Button" # defaults to theme default
 #netlify = false
 
 # Optional google captcha
 # Won't be used if netlify is enabled
-#[recaptcha]
-#  sitekey = ""
+[recaptcha]
+  sitekey = "6LdfNAoaAAAAANsbb1lQgW9BBWjAINf_I6s7lVvA"
 
 [message]
   success = "Thank you for contacting us." # defaults to theme default
