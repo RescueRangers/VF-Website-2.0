@@ -5,7 +5,7 @@ date = "2017-10-17"
 #position = "Lead Gopherineer" 
 #reports_to = "CTO" 
 #lives_in = "Munich, Germany" 
-scope = [ "Industriparken 14 - 16", "DK-6880 Tarm", "Denmark" ] 
+scope = [ "Odderskærvej 5", "DK-6900 Skjern", "Denmark" ] 
 
 +++
 {{% fontawesome phone-alt %}} +45 97 37 13 15
