@@ -9,8 +9,6 @@ scope = [ "ul. Piłsudskiego 11", "74-400 Dębno", "Zachodniopomorskie", "Poland
 
 +++
 
-{{% fontawesome phone-alt %}} +48 795 072 444
+{{% fontawesome phone-alt %}} +48 887 660 480
 
-al@vest-fiber.com
-
-aru@vest-fiber.com
+contact@vest-fiber.com
