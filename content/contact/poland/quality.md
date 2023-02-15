@@ -1,6 +1,6 @@
 +++ 
 title = "Dariusz Mikłaszewski" 
-weight = 40 
+weight = 50 
 date = "2017-10-18" 
 position = "Quality Engineer" 
 #reports_to = "CTO" 
