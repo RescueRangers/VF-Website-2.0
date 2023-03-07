@@ -2,7 +2,7 @@
 title = "Agnieszka Gibczyńska" 
 weight = 40 
 date = "2017-10-18" 
-position = "Global Procurment Specialist" 
+position = "Global Procurment Specialist & Transport Coordinator" 
 #reports_to = "CTO" 
 #lives_in = "Munich, Germany" 
 #scope = [ "ul. Piłsudskiego 11", "74-400 Dębno", "Zachodniopomorskie", "Poland" ] 
